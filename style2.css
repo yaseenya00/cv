@@ -1,0 +1,16 @@
+.free{
+background-color: palevioletred;
+padding-bottom: 40px;
+margin-bottom: -20px;
+font-family: Aboreto;
+}
+
+.navbar-brand{
+
+    font-family: Aboreto;
+    color: #FFEBB7;
+}
+body{
+    background-color: #FFEBB7;
+}
+
